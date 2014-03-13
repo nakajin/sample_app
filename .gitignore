@@ -16,4 +16,4 @@
 /tmp
 
 # secret token
-/config/initializer
+/config/initializers
